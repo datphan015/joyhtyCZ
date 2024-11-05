@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048036228943",
+    "project_id": "joyhtycz",
+    "storage_bucket": "joyhtycz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048036228943:android:6d5bf5883d833f01a90f3a",
+        "android_client_info": {
+          "package_name": "edu.huflit.vn.joyhtycz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048036228943-uhc87df7dk5m17vh7alvhkartghaf43l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxL35r4TTQC1FEURC_55LbskpWVwKCHrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048036228943-uhc87df7dk5m17vh7alvhkartghaf43l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
